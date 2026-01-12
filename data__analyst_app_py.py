@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1SLFCmjT78q2B8s6zZ6XmORqByLbbETtT
 """
 
-! pip install streamlit
+install streamlit
 import streamlit as st
 
 st.set_page_config(page_title="Bansari Patel | Data Analyst", layout="wide")
